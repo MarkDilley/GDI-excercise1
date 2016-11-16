@@ -1,0 +1,1 @@
+first test exampel for second class
